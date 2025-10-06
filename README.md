@@ -8,8 +8,7 @@ Avec l’essor des **réservations en ligne**, le comportement des clients et le
 ## Objectifs
 Ce projet vise à :  
 - Identifier les **facteurs influençant les annulations**.  
-- Construire un **modèle prédictif** capable d’anticiper les annulations.  
-- Proposer des **politiques et recommandations rentables** pour réduire l’impact financier des annulations.  
+- Construire un **modèle prédictif** capable d’anticiper les annulations.    
 
 ## Description des données
 Les données contiennent des informations sur les réservations et les clients. La variable cible est **`booking_status`** (annulée ou non).  
@@ -41,4 +40,3 @@ Les données contiennent des informations sur les réservations et les clients. 
 ## Résultats attendus
 - Un modèle capable de prédire les annulations de réservations avec précision.  
 - Visualisations et analyses des facteurs influençant les annulations.  
-- Recommandations et stratégies pour réduire les pertes financières dues aux annulations.  
